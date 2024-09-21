@@ -2,6 +2,9 @@
 
 Priest Addon for Power Infusion.
 
+- New Changes to include a return of Cooldown Duration to the current PI target if the cast fails rounded to two decimal points.
+- Added SendChatMessage usage to better communicate the application of PI rather than using client Print messages.
+
 Command to cast PI on the last person that whispered "POWER INFUSION" (in caps) to you:
 
 	/pi
