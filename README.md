@@ -20,4 +20,4 @@ These commands can be used in macros.
 
 Click on 'ChroniclesPI.zip' on this page:
 
-[Download](https://github.com/EinBaum/ChroniclesPI/releases)
+[Download](https://github.com/Northyn/ChroniclesPI/archive/refs/heads/master.zip)
